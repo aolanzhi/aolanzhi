@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aolanzhi.
-- 👀 I’m interested in semiconductor, microelectronics and power electronics.
+- 👀 I’m interested in energy systems and power electronics.
 - 🌱 I’m currently learning electrical engineering.
 - 💞️ I’m looking to collaborate on electrical engineering projects.
 - 📫 How to reach me ins: yuchengzzzh
